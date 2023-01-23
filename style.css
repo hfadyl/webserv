@@ -1,0 +1,38 @@
+body{
+	width: auto;
+	min-height: 100%;
+	font-family: "Poppin Bold", sans-serif;
+	/* background-color: #2d2d2d; */
+	color: #000;
+}
+
+h1 {
+	color: rgb(77, 84, 205);
+}
+
+ul{
+	list-style: none;
+}
+
+a{
+	font-family: "Poppin Bold", sans-serif;
+	text-decoration: none;
+	color: #000;
+}
+
+a:hover{
+	color: rgb(130, 134, 202);
+	border-bottom-color: rgb(130, 134, 202);
+
+}
+
+table{
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th, td{
+	padding: 4px;
+	text-align: left;
+	border-bottom: 1px solid rgb(63, 62, 62);
+}
